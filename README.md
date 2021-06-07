@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Implementar, usando BLoC Pattern, um crud com o recurso Sprint do serviço:  https://scrum-deck-backend.herokuapp.com/swagger-ui.html
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
